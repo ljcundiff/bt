@@ -1,5 +1,6 @@
 #include <iostream>
 #include <fstream>
+#include <string>
 
 int findLocation(std::string sourceFile, std::string searchText)
 {
